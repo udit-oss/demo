@@ -1,4 +1,4 @@
 # demo
 Demo Repo
 <br>
-Author: John M
+Author: John M (Canny)
